@@ -1,9 +1,0 @@
-{
-  "name": "Metalayns",
-  "short_name": "Metalayns",
-  "start_url": "/metalayns/",
-  "display": "standalone",
-  "background_color": "#0B1E4A",
-  "theme_color": "#0B1E4A",
-  "orientation": "landscape"
-}
